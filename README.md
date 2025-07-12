@@ -1,1 +1,3 @@
-# arch-boki-wezterm
+# Arch-Boki-Wezterm
+
+Wezterm terminal configuration
