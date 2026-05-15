@@ -18,6 +18,7 @@ config = {
   max_fps = 120,
   animation_fps = 1,
   enable_scroll_bar = true,
+  scrollback_lines = 3000,
   term = "xterm-256color",
   webgpu_power_preference = "HighPerformance",
   front_end = "OpenGL",
