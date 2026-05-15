@@ -14,6 +14,7 @@ config = {
   check_for_updates = false,
   use_fancy_tab_bar = true,
   tab_bar_at_bottom = false,
+  audible_bell = "Disabled",
   max_fps = 120,
   animation_fps = 1,
   enable_scroll_bar = true,
